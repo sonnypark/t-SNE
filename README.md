@@ -2,7 +2,7 @@
 
 
 ## binder
-https://mybinder.org/
+https://mybinder.org/v2/gh/sonnypark/t-SNE/master
 
 
 ## Data files:
